@@ -1,0 +1,44 @@
+{
+  "Nam": {
+    "Ao": [
+      {"size": "S",   "height": [150, 162], "weight": [45, 54], "chest": [80, 86]},
+      {"size": "M",   "height": [163, 168], "weight": [55, 62], "chest": [87, 92]},
+      {"size": "L",   "height": [169, 174], "weight": [63, 70], "chest": [93, 98]},
+      {"size": "XL",  "height": [175, 182], "weight": [71, 80], "chest": [99, 104]},
+      {"size": "XXL", "height": [183, 190], "weight": [81, 90], "chest": [105, 110]}
+    ],
+    "Quan": [
+      {"size": "29", "height": [155, 165], "weight": [48, 55], "waist": [72, 76]},
+      {"size": "30", "height": [160, 170], "weight": [56, 62], "waist": [77, 80]},
+      {"size": "31", "height": [165, 175], "weight": [63, 68], "waist": [81, 84]},
+      {"size": "32", "height": [170, 180], "weight": [69, 75], "waist": [85, 88]},
+      {"size": "34", "height": [175, 185], "weight": [76, 85], "waist": [89, 94]}
+    ]
+  },
+  "Nữ": {
+    "Ao": [
+      {"size": "S",  "height": [148, 156], "weight": [40, 47], "bust": [78, 82]},
+      {"size": "M",  "height": [157, 163], "weight": [48, 55], "bust": [83, 87]},
+      {"size": "L",  "height": [164, 170], "weight": [56, 63], "bust": [88, 92]},
+      {"size": "XL", "height": [171, 178], "weight": [64, 72], "bust": [93, 98]}
+    ],
+    "Quan": [
+      {"size": "S",  "height": [148, 156], "weight": [40, 47], "waist": [60, 64]},
+      {"size": "M",  "height": [157, 163], "weight": [48, 55], "waist": [65, 69]},
+      {"size": "L",  "height": [164, 170], "weight": [56, 63], "waist": [70, 74]},
+      {"size": "XL", "height": [171, 178], "weight": [64, 72], "waist": [75, 80]}
+    ],
+    "Vay": [
+      {"size": "S",  "height": [148, 156], "weight": [40, 47], "bust": [78, 82], "waist": [60, 64]},
+      {"size": "M",  "height": [157, 163], "weight": [48, 55], "bust": [83, 87], "waist": [65, 69]},
+      {"size": "L",  "height": [164, 170], "weight": [56, 63], "bust": [88, 92], "waist": [70, 74]},
+      {"size": "XL", "height": [171, 178], "weight": [64, 72], "bust": [93, 98], "waist": [75, 80]}
+    ]
+  },
+  "Unisex": [
+    {"size": "S",  "height": [150, 162], "weight": [45, 54]},
+    {"size": "M",  "height": [163, 170], "weight": [55, 63]},
+    {"size": "L",  "height": [171, 178], "weight": [64, 72]},
+    {"size": "XL", "height": [179, 186], "weight": [73, 82]}
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "rules": [
+    {
+      "name": "Công sở nam",
+      "gender": "Nam",
+      "occasion": "Đi làm",
+      "items": ["Áo sơ mi", "Quần tây", "Áo vest", "Áo gile", "Áo blazer"],
+      "avoid": ["Áo thun", "Quần short", "Áo ba lỗ"],
+      "tips": "Chọn tone màu trung tính như trắng, đen, xanh navy để lịch sự."
+    },
+    {
+      "name": "Công sở nữ",
+      "gender": "Nữ",
+      "occasion": "Đi làm",
+      "items": ["Áo sơ mi", "Chân váy", "Đầm suông", "Áo vest", "Quần tây"],
+      "avoid": ["Croptop", "Đầm hai dây", "Quần short"],
+      "tips": "Ưu tiên các thiết kế kín đáo, thanh lịch, tone trung tính."
+    },
+    {
+      "name": "Đi cafe nữ",
+      "gender": "Nữ",
+      "occasion": "Cafe",
+      "items": ["Áo thun", "Đầm nữ", "Váy", "Áo sơ mi", "Áo len"],
+      "avoid": [],
+      "tips": "Chọn trang phục thoải mái, dễ thương, có thể phối layer."
+    },
+    {
+      "name": "Đi chơi nữ",
+      "gender": "Nữ",
+      "occasion": "Đi chơi",
+      "items": ["Áo thun", "Quần jeans", "Váy", "Đầm nữ", "Chân váy"],
+      "avoid": [],
+      "tips": "Phối màu trẻ trung, có thể mix-match nhiều layer."
+    },
+    {
+      "name": "Streetwear nam",
+      "gender": "Nam",
+      "occasion": "Dạo phố",
+      "items": ["Áo thun", "Hoodie", "Quần jeans", "Quần baggy", "Áo khoác"],
+      "avoid": ["Áo sơ mi công sở", "Quần tây"],
+      "tips": "Chọn form rộng, phối cùng sneaker cá tính."
+    },
+    {
+      "name": "Dự tiệc nữ",
+      "gender": "Nữ",
+      "occasion": "Dự tiệc",
+      "items": ["Đầm nữ", "Váy", "Áo vest"],
+      "avoid": ["Áo thun", "Quần short", "Quần jogger"],
+      "tips": "Chọn thiết kế sang trọng, tôn dáng, có thể dùng phụ kiện nổi bật."
+    },
+    {
+      "name": "Dự tiệc nam",
+      "gender": "Nam",
+      "occasion": "Dự tiệc",
+      "items": ["Áo sơ mi", "Áo blazer", "Áo vest", "Quần tây"],
+      "avoid": ["Áo thun", "Quần jeans rách", "Áo ba lỗ"],
+      "tips": "Chọn suit hoặc blazer phối cùng sơ mi và quần tây."
+    },
+    {
+      "name": "Đi biển",
+      "gender": "Unisex",
+      "occasion": "Đi biển",
+      "items": ["Váy maxi", "Áo thun", "Quần short", "Áo khoác gió"],
+      "avoid": ["Áo len", "Áo hoodie"],
+      "tips": "Chọn trang phục thoáng mát, chất liệu nhẹ, dễ khô."
+    },
+    {
+      "name": "Thể thao",
+      "gender": "Unisex",
+      "occasion": "Thể thao",
+      "items": ["Áo polo", "Áo ba lỗ", "Quần short", "Quần jogger", "Legging"],
+      "avoid": ["Đầm dự tiệc", "Áo sơ mi công sở"],
+      "tips": "Chọn vải co giãn, thấm hút mồ hôi tốt."
+    }
+  ]
+}

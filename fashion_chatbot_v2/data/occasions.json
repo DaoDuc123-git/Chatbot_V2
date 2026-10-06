@@ -1,0 +1,16 @@
+{
+  "occasions": [
+    {"key": "Đi làm", "description": "Môi trường công sở, lịch sự", "emoji": "💼"},
+    {"key": "Đi học", "description": "Trường học, thoải mái", "emoji": "📚"},
+    {"key": "Đi chơi", "description": "Gặp gỡ bạn bè, dạo phố", "emoji": "🎉"},
+    {"key": "Cafe", "description": "Ngồi quán cà phê, thư giãn", "emoji": "☕"},
+    {"key": "Dự tiệc", "description": "Tiệc tùng, sự kiện trang trọng", "emoji": "🥂"},
+    {"key": "Hẹn hò", "description": "Buổi hẹn với người yêu", "emoji": "❤️"},
+    {"key": "Du lịch", "description": "Đi du lịch, khám phá", "emoji": "✈️"},
+    {"key": "Đi biển", "description": "Biển, resort", "emoji": "🌊"},
+    {"key": "Thể thao", "description": "Tập luyện, chơi thể thao", "emoji": "🏃"},
+    {"key": "Dạo phố", "description": "Đi bộ, mua sắm", "emoji": "🛍️"},
+    {"key": "Ở nhà", "description": "Thư giãn tại nhà", "emoji": "🏠"},
+    {"key": "Club", "description": "Quán bar, club", "emoji": "🎵"}
+  ]
+}
